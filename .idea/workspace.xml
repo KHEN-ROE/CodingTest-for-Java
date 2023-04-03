@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75f4080e-5f2b-40e4-927d-453719b48d15" name="Changes" comment="" />
+    <list default="true" id="75f4080e-5f2b-40e4-927d-453719b48d15" name="Changes" comment="init2">
+      <change afterPath="$PROJECT_DIR$/src/거스름돈예시.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/곱하기혹은더하기예시.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/모험가길드예시.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/일이될때까지예시.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NunienOSPyAjGj0WqUPaWDwTjG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +38,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680522964549</updated>
+      <workItem from="1680522965683" duration="188000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1680523040182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680523040182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init2" />
   </component>
 </project>

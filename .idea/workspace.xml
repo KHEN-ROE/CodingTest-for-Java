@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75f4080e-5f2b-40e4-927d-453719b48d15" name="Changes" comment="그리디 5문제 완료&#10;근데 부족함">
-      <change afterPath="$PROJECT_DIR$/src/교재/정렬/계수정렬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/교재/정렬/삽입정렬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/교재/정렬/선택정렬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/교재/정렬/예제.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/교재/정렬/퀵정렬.java" afterDir="false" />
+    <list default="true" id="75f4080e-5f2b-40e4-927d-453719b48d15" name="Changes" comment="정렬">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/교재/거스름돈예시.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/교재/곱하기혹은더하기예시.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/교재/모험가길드예시.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/교재/일이될때까지예시.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/그리디/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/그리디/동전0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/그리디/보물.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/그리디/잃어버린괄호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/그리디/주유소.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/그리디/회의실배정.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +153,7 @@
       <workItem from="1680611564238" duration="11773000" />
       <workItem from="1680699320020" duration="691000" />
       <workItem from="1680700031999" duration="7687000" />
-      <workItem from="1681014115322" duration="13603000" />
+      <workItem from="1681014115322" duration="13982000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -198,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681047531309</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="정렬">
+      <created>1681057559167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681057559167</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +202,8 @@
     <MESSAGE value="그리디 다시 공부가 필요함" />
     <MESSAGE value="그리디 다시 공부가 필요함2" />
     <MESSAGE value="그리디 5문제 완료&#10;근데 부족함" />
-    <option name="LAST_COMMIT_MESSAGE" value="그리디 5문제 완료&#10;근데 부족함" />
+    <MESSAGE value="정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="정렬" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

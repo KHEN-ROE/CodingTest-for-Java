@@ -25,6 +25,14 @@ public class 회의실배정 {
                 }
             }
         });
+        int count = 0, end = -1;
+        for (int i = 0; i < n; i++) {
+            if (time[i][0] >= end) {
+                count++;
+                end = time[i][1];
+            }
+        }
+        System.out.println(count);
 
         //람다식으로 정렬할 수도 있다.
 //        Arrays.sort(time, (a, b) -> {
@@ -41,11 +49,6 @@ public class 회의실배정 {
 //                end = time[i][1];
 //            }
 //        }
-        System.out.println(count);
-
-
-
-
 
 
         //시간초과

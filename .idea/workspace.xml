@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75f4080e-5f2b-40e4-927d-453719b48d15" name="Changes" comment="그리디 다시 공부가 필요함2">
-      <change afterPath="$PROJECT_DIR$/src/그리디/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/그리디/잃어버린괄호.java" afterDir="false" />
+    <list default="true" id="75f4080e-5f2b-40e4-927d-453719b48d15" name="Changes" comment="그리디 5문제 완료&#10;근데 부족함">
+      <change afterPath="$PROJECT_DIR$/src/교재/정렬/계수정렬.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/교재/정렬/삽입정렬.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/교재/정렬/선택정렬.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/교재/정렬/예제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/교재/정렬/퀵정렬.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/그리디/회의실배정.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/그리디/회의실배정.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/교재/거스름돈예시.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/교재/곱하기혹은더하기예시.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/교재/모험가길드예시.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/교재/일이될때까지예시.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/그리디/ATM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/그리디/동전0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/그리디/보물.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/그리디/잃어버린괄호.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/그리디/주유소.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/그리디/회의실배정.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,27 +59,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.잃어버린괄호">
-    <configuration name="보물" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.보물" />
-      <module name="CodingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="동전0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.동전0" />
-      <module name="CodingTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="회의실배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.회의실배정" />
+  <component name="RunManager" selected="Application.예제">
+    <configuration name="선택정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="교재.정렬.선택정렬" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="교재.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="계수정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="교재.정렬.계수정렬" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="교재.정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.ATM" />
+    <configuration name="삽입정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="교재.정렬.삽입정렬" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="교재.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="예제" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="교재.정렬.예제" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="교재.정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.예제" />
+        <item itemvalue="Application.계수정렬" />
+        <item itemvalue="Application.삽입정렬" />
+        <item itemvalue="Application.선택정렬" />
         <item itemvalue="Application.잃어버린괄호" />
-        <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.회의실배정" />
-        <item itemvalue="Application.동전0" />
-        <item itemvalue="Application.보물" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +168,7 @@
       <workItem from="1680611564238" duration="11773000" />
       <workItem from="1680699320020" duration="691000" />
       <workItem from="1680700031999" duration="7687000" />
-      <workItem from="1681014115322" duration="8469000" />
+      <workItem from="1681014115322" duration="13603000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -167,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680709729623</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="그리디 5문제 완료&#10;근데 부족함">
+      <created>1681047531309</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681047531309</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +209,8 @@
     <MESSAGE value="init2" />
     <MESSAGE value="그리디 다시 공부가 필요함" />
     <MESSAGE value="그리디 다시 공부가 필요함2" />
-    <option name="LAST_COMMIT_MESSAGE" value="그리디 다시 공부가 필요함2" />
+    <MESSAGE value="그리디 5문제 완료&#10;근데 부족함" />
+    <option name="LAST_COMMIT_MESSAGE" value="그리디 5문제 완료&#10;근데 부족함" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -189,14 +221,9 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/그리디/ATM.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/그리디/잃어버린괄호.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/src/교재/정렬/선택정렬.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

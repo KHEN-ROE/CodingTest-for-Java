@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f4080e-5f2b-40e4-927d-453719b48d15" name="Changes" comment="정렬">
-      <change afterPath="$PROJECT_DIR$/src/백준/정렬/수정렬하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/정렬/수정렬하기2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/나이순정렬.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/나이순정렬2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/대표값2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/수정렬하기3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.수정렬하기2">
+  <component name="RunManager" selected="Application.대표값2">
     <configuration name="선택정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="교재.정렬.선택정렬" />
       <module name="CodingTest" />
@@ -62,6 +64,45 @@
     </configuration>
     <configuration name="수정렬하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.정렬.수정렬하기2" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="대표값2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.대표값2" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수정렬하기3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.수정렬하기3" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수정렬하기3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.수정렬하기3" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -160,6 +201,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.대표값2" />
+        <item itemvalue="Application.수정렬하기3" />
+        <item itemvalue="Application.수정렬하기3 (1)" />
         <item itemvalue="Application.수정렬하기2" />
         <item itemvalue="Application.선택정렬" />
       </list>
@@ -180,7 +224,9 @@
       <workItem from="1680700031999" duration="7687000" />
       <workItem from="1681014115322" duration="14167000" />
       <workItem from="1681142380590" duration="1325000" />
-      <workItem from="1681143757497" duration="599000" />
+      <workItem from="1681143757497" duration="1219000" />
+      <workItem from="1681299092222" duration="192000" />
+      <workItem from="1681308037460" duration="3984000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -231,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681057764395</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="정렬">
+      <created>1681168263485</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681168263485</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

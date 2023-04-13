@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="w">
-      <change afterPath="$PROJECT_DIR$/src/백준/정렬/나이순정렬2.java" afterDir="false" />
+    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="d">
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/NotePad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/소트인사이드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/커트라인.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/백준/정렬/대표값2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/정렬/대표값2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +55,9 @@
       &lt;option name=&quot;MAIN_CLASS_NAME&quot; value=&quot;교재.정렬.선택정렬&quot; /&gt;
 
 }</component>
-  <component name="RunManager" selected="Application.나이순정렬2">
-    <configuration name="나이순정렬2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.나이순정렬2" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="나이순정렬2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.나이순정렬2" />
+  <component name="RunManager" selected="Application.소트인사이드">
+    <configuration name="커트라인" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.커트라인" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="수정렬하기3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.수정렬하기3" />
+    <configuration name="대표값2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.대표값2" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="수정렬하기3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.수정렬하기3" />
+    <configuration name="소트인사이드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.소트인사이드" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="수정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.수정렬하기" />
+    <configuration name="NotePad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.NotePad" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -218,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.소트인사이드" />
+        <item itemvalue="Application.커트라인" />
+        <item itemvalue="Application.대표값2" />
+        <item itemvalue="Application.NotePad" />
         <item itemvalue="Application.나이순정렬2" />
-        <item itemvalue="Application.나이순정렬2 (3)" />
-        <item itemvalue="Application.수정렬하기3" />
-        <item itemvalue="Application.수정렬하기3 (1)" />
-        <item itemvalue="Application.나이순정렬2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +236,8 @@
       <workItem from="1681308037460" duration="3984000" />
       <workItem from="1681143757497" duration="599000" />
       <workItem from="1681203732656" duration="5728000" />
-      <workItem from="1681388066247" duration="737000" />
+      <workItem from="1681388066247" duration="802000" />
+      <workItem from="1681395531097" duration="2316000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -304,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681168263485</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="d">
+      <created>1681388861776</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681388861776</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,7 +327,8 @@
     <MESSAGE value="그리디 5문제 완료&#10;근데 부족함" />
     <MESSAGE value="정렬" />
     <MESSAGE value="w" />
-    <option name="LAST_COMMIT_MESSAGE" value="w" />
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

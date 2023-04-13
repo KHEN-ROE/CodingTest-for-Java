@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="w">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/정렬/나이순정렬2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/교재/정렬/계수정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/교재/정렬/계수정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/정렬/나이순정렬2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,34 +52,8 @@
       &lt;option name=&quot;MAIN_CLASS_NAME&quot; value=&quot;교재.정렬.선택정렬&quot; /&gt;
 
 }</component>
-  <component name="RunManager" selected="Application.나이순정렬2 (2)">
-    <configuration name="나이순정렬 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.나이순정렬" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="나이순정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.나이순정렬" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="나이순정렬2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.나이순정렬2">
+    <configuration name="나이순정렬2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.정렬.나이순정렬2" />
       <module name="CodingTest" />
       <extension name="coverage">
@@ -94,7 +66,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="나이순정렬2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="나이순정렬2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.정렬.나이순정렬2" />
       <module name="CodingTest" />
       <extension name="coverage">
@@ -246,13 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.나이순정렬2" />
+        <item itemvalue="Application.나이순정렬2 (3)" />
         <item itemvalue="Application.수정렬하기3" />
         <item itemvalue="Application.수정렬하기3 (1)" />
         <item itemvalue="Application.나이순정렬2 (2)" />
-        <item itemvalue="Application.나이순정렬2" />
-        <item itemvalue="Application.나이순정렬2 (1)" />
-        <item itemvalue="Application.나이순정렬" />
-        <item itemvalue="Application.나이순정렬 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +246,7 @@
       <workItem from="1681308037460" duration="3984000" />
       <workItem from="1681143757497" duration="599000" />
       <workItem from="1681203732656" duration="5728000" />
-      <workItem from="1681388066247" duration="88000" />
+      <workItem from="1681388066247" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -339,6 +309,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />

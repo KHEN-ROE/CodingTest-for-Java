@@ -13,11 +13,11 @@ public class 계수정렬 {
         for(int i=0; i<n; i++){
             cnt[arr[i]] += 1; // 각 데이터에 해당하는 인덱스의 값 증가
         }
+
         for (int i = 0; i <= MAX_VALUE; i++) { // 배열에 기록된 정렬 정보 확인
             for(int j=0; j<cnt[i]; j++){
                 System.out.println(i + " "); // 띄어쓰기 기준으로 등장한 횟수만큼 인덱스 출력
             }
-
         }
     }
 }

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="정렬 11문제 완료">
-      <change afterPath="$PROJECT_DIR$/src/백준/정렬/좌표압축2.java" afterDir="false" />
+    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="정렬 11문제 완료.">
+      <change afterPath="$PROJECT_DIR$/src/교재/이진탐색/이진탐색예시.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/교재/이진탐색/이진탐색예제.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/정렬/NotePad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/정렬/NotePad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,22 +53,9 @@
       &lt;option name=&quot;MAIN_CLASS_NAME&quot; value=&quot;교재.정렬.선택정렬&quot; /&gt;
 
 }</component>
-  <component name="RunManager" selected="Application.좌표압축2">
+  <component name="RunManager" selected="Application.NotePad">
     <configuration name="좌표압축" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.정렬.좌표압축" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="단어정렬2 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.단어정렬2" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -138,6 +125,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="백준.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진탐색예시" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="교재.이진탐색.이진탐색예시" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="교재.이진탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,8 +235,6 @@
         <item itemvalue="Application.좌표압축2" />
         <item itemvalue="Application.NotePad" />
         <item itemvalue="Application.좌표압축" />
-        <item itemvalue="Application.단어정렬2" />
-        <item itemvalue="Application.단어정렬2 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +260,8 @@
       <workItem from="1681203732656" duration="5728000" />
       <workItem from="1681388066247" duration="802000" />
       <workItem from="1681395531097" duration="3066000" />
-      <workItem from="1681448051083" duration="12229000" />
+      <workItem from="1681448051083" duration="15310000" />
+      <workItem from="1681604230702" duration="905000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -341,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681537844574</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="정렬 11문제 완료.">
+      <created>1681572721147</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681572721147</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +375,8 @@
     <MESSAGE value="d" />
     <MESSAGE value="정렬 푸는중" />
     <MESSAGE value="정렬 11문제 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="정렬 11문제 완료" />
+    <MESSAGE value="정렬 11문제 완료." />
+    <option name="LAST_COMMIT_MESSAGE" value="정렬 11문제 완료." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

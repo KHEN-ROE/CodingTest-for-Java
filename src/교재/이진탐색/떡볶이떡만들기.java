@@ -2,7 +2,7 @@ package 교재.이진탐색;
 
 import java.util.Scanner;
 
-public class 이진탐색예제 {
+public class 떡볶이떡만들기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

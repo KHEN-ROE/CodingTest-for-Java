@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="정렬 11문제 완료.">
-      <change afterPath="$PROJECT_DIR$/src/교재/이진탐색/이진탐색예시.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/교재/이진탐색/이진탐색예제.java" afterDir="false" />
+    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="이진탐색">
+      <change afterPath="$PROJECT_DIR$/src/교재/이진탐색/부품찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/숫자카드2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/숫자카드2_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/교재/이진탐색/이진탐색예제.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/교재/이진탐색/떡볶이떡만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +59,13 @@
       &lt;option name=&quot;MAIN_CLASS_NAME&quot; value=&quot;교재.정렬.선택정렬&quot; /&gt;
 
 }</component>
-  <component name="RunManager" selected="Application.NotePad">
-    <configuration name="좌표압축" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.좌표압축" />
+  <component name="RunManager" selected="Application.숫자카드2_1">
+    <configuration name="숫자카드2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.숫자카드2" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="PATTERN" value="백준.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="좌표압축2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.좌표압축2" />
+    <configuration name="수찾기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.수찾기2" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="PATTERN" value="백준.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +125,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotePad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.NotePad" />
+    <configuration name="숫자카드2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.숫자카드2_1" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="PATTERN" value="백준.이분탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수찾기3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.수찾기3" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.이분탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수찾기4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.수찾기4" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,9 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.좌표압축2" />
-        <item itemvalue="Application.NotePad" />
-        <item itemvalue="Application.좌표압축" />
+        <item itemvalue="Application.숫자카드2_1" />
+        <item itemvalue="Application.숫자카드2" />
+        <item itemvalue="Application.수찾기4" />
+        <item itemvalue="Application.수찾기3" />
+        <item itemvalue="Application.수찾기2" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +295,7 @@
       <workItem from="1681388066247" duration="802000" />
       <workItem from="1681395531097" duration="3066000" />
       <workItem from="1681448051083" duration="15310000" />
-      <workItem from="1681604230702" duration="905000" />
+      <workItem from="1681604230702" duration="20979000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -347,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681572721147</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="이진탐색">
+      <created>1681605556689</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681605556689</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +417,8 @@
     <MESSAGE value="정렬 푸는중" />
     <MESSAGE value="정렬 11문제 완료" />
     <MESSAGE value="정렬 11문제 완료." />
-    <option name="LAST_COMMIT_MESSAGE" value="정렬 11문제 완료." />
+    <MESSAGE value="이진탐색" />
+    <option name="LAST_COMMIT_MESSAGE" value="이진탐색" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,6 +442,11 @@
           <url>file://$PROJECT_DIR$/src/백준/정렬/좌표압축2.java</url>
           <line>30</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/백준/이분탐색/숫자카드2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="이진탐색">
-      <change afterPath="$PROJECT_DIR$/src/교재/이진탐색/부품찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/수찾기4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/숫자카드2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/숫자카드2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/구현/A더하기B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/교재/이진탐색/이진탐색예제.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/교재/이진탐색/떡볶이떡만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +53,20 @@
       &lt;option name=&quot;MAIN_CLASS_NAME&quot; value=&quot;교재.정렬.선택정렬&quot; /&gt;
 
 }</component>
-  <component name="RunManager" selected="Application.숫자카드2_1">
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="소트인사이드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.소트인사이드" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="숫자카드2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.이분탐색.숫자카드2" />
       <module name="CodingTest" />
@@ -138,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="수찾기3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.수찾기3" />
+    <configuration name="A더하기B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.구현.A더하기B" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.이분탐색.*" />
+          <option name="PATTERN" value="백준.구현.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,25 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="수찾기4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.수찾기4" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.구현.HelloWorld" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.이분탐색.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이진탐색예시" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="교재.이진탐색.이진탐색예시" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="교재.이진탐색.*" />
+          <option name="PATTERN" value="백준.구현.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.A더하기B" />
+        <item itemvalue="Application.소트인사이드" />
         <item itemvalue="Application.숫자카드2_1" />
         <item itemvalue="Application.숫자카드2" />
-        <item itemvalue="Application.수찾기4" />
-        <item itemvalue="Application.수찾기3" />
-        <item itemvalue="Application.수찾기2" />
       </list>
     </recent_temporary>
   </component>
@@ -296,6 +290,8 @@
       <workItem from="1681395531097" duration="3066000" />
       <workItem from="1681448051083" duration="15310000" />
       <workItem from="1681604230702" duration="20979000" />
+      <workItem from="1681690836434" duration="14000" />
+      <workItem from="1681707660381" duration="576000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -447,6 +443,11 @@
           <url>file://$PROJECT_DIR$/src/백준/이분탐색/숫자카드2.java</url>
           <line>14</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/백준/구현/A더하기B.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

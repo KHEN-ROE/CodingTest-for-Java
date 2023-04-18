@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="구현" />
+    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="구현">
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/암기왕.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/암기왕2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/예산.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,13 +54,13 @@
       &lt;option name=&quot;MAIN_CLASS_NAME&quot; value=&quot;교재.정렬.선택정렬&quot; /&gt;
 
 }</component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="소트인사이드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.소트인사이드" />
+  <component name="RunManager" selected="Application.예산">
+    <configuration name="암기왕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.암기왕" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="PATTERN" value="백준.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="숫자카드2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.숫자카드2" />
+    <configuration name="암기왕2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.암기왕2" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="숫자카드2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.숫자카드2_1" />
+    <configuration name="예산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.예산" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -254,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.예산" />
+        <item itemvalue="Application.암기왕2" />
+        <item itemvalue="Application.암기왕" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.A더하기B" />
-        <item itemvalue="Application.소트인사이드" />
-        <item itemvalue="Application.숫자카드2_1" />
-        <item itemvalue="Application.숫자카드2" />
       </list>
     </recent_temporary>
   </component>
@@ -288,6 +293,7 @@
       <workItem from="1681604230702" duration="20979000" />
       <workItem from="1681690836434" duration="14000" />
       <workItem from="1681707660381" duration="910000" />
+      <workItem from="1681808848107" duration="5920000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -442,11 +448,6 @@
           <url>file://$PROJECT_DIR$/src/백준/정렬/좌표압축2.java</url>
           <line>30</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/백준/이분탐색/숫자카드2.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/백준/구현/A더하기B.java</url>

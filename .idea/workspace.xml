@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="구현">
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/암기왕.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/암기왕2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/이분탐색/예산.java" afterDir="false" />
+    <list default="true" id="60942ba2-6cee-4be1-babb-bc0589bbfe49" name="Changes" comment="이분탐색">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +52,9 @@
       &lt;option name=&quot;MAIN_CLASS_NAME&quot; value=&quot;교재.정렬.선택정렬&quot; /&gt;
 
 }</component>
-  <component name="RunManager" selected="Application.예산">
-    <configuration name="암기왕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.암기왕" />
+  <component name="RunManager" selected="Application.나무자르기2">
+    <configuration name="나무자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.나무자르기" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="암기왕2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.암기왕2" />
+    <configuration name="나무자르기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.나무자르기2" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.이분탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="가장긴증가하는부분수열2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.가장긴증가하는부분수열2" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="예산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.예산" />
+    <configuration name="랜선자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.랜선자르기" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -146,38 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A더하기B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.구현.A더하기B" />
+    <configuration name="나무자르기3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.나무자르기3" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.구현.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.구현.HelloWorld" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="백준.구현.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="소트인사이드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.정렬.소트인사이드" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="PATTERN" value="백준.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,6 +189,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="랜선자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.랜선자르기" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,13 +255,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="예산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.예산" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.이분탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="예산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.이분탐색.예산" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.이분탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="소트인사이드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.정렬.소트인사이드" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.예산" />
-        <item itemvalue="Application.암기왕2" />
-        <item itemvalue="Application.암기왕" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.A더하기B" />
+        <item itemvalue="Application.나무자르기2" />
+        <item itemvalue="Application.나무자르기3" />
+        <item itemvalue="Application.가장긴증가하는부분수열2" />
+        <item itemvalue="Application.나무자르기" />
+        <item itemvalue="Application.랜선자르기" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +331,12 @@
       <workItem from="1681690836434" duration="14000" />
       <workItem from="1681707660381" duration="910000" />
       <workItem from="1681808848107" duration="5920000" />
+      <workItem from="1681914566196" duration="3395000" />
+      <workItem from="1682220915007" duration="2000" />
+      <workItem from="1682222197441" duration="81000" />
+      <workItem from="1682225657531" duration="2000" />
+      <workItem from="1682431072476" duration="3914000" />
+      <workItem from="1682678771134" duration="19686000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680523040182</created>
@@ -393,7 +436,35 @@
       <option name="project" value="LOCAL" />
       <updated>1681708564039</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="예산 다시 하기">
+      <created>1681920099748</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681920099748</updated>
+    </task>
+    <task id="LOCAL-00016" summary="이분탐색">
+      <created>1682437747518</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682437747518</updated>
+    </task>
+    <task id="LOCAL-00017" summary="이분탐색">
+      <created>1682688914032</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682688914032</updated>
+    </task>
+    <task id="LOCAL-00018" summary="이분탐색">
+      <created>1682776847700</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682776847700</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +495,9 @@
     <MESSAGE value="정렬 11문제 완료." />
     <MESSAGE value="이진탐색" />
     <MESSAGE value="구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="구현" />
+    <MESSAGE value="예산 다시 하기" />
+    <MESSAGE value="이분탐색" />
+    <option name="LAST_COMMIT_MESSAGE" value="이분탐색" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -453,6 +526,35 @@
           <url>file://$PROJECT_DIR$/src/백준/구현/A더하기B.java</url>
           <line>17</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/백준/이분탐색/예산.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/백준/이분탐색/암기왕.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/백준/이분탐색/암기왕2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/백준/이분탐색/나무자르기2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/백준/이분탐색/랜선자르기.java</url>
+          <line>43</line>
+          <properties class="백준.이분탐색.랜선자르기" method="getCount">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
